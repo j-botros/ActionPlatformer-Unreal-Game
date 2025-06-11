@@ -122,7 +122,12 @@
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/BP_ActionChar.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/BP_Captain.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/BP_Shark.uasset",
-				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/GM_Action.uasset"
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/GM_Action.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IA_Move.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IA_Jump.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IA_Attack.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IA_Throw.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IMC_Action.uasset"
 			]
 		}
 	]
