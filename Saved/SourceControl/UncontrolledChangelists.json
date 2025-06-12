@@ -135,7 +135,8 @@
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Attack.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Throw.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AS_Captain.uasset",
-				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/ABP_Captain.uasset"
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/ABP_Captain.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/NotifyStates/ANS_Attack.uasset"
 			]
 		}
 	]
