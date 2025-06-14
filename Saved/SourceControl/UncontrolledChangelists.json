@@ -138,7 +138,11 @@
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/ABP_Captain.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/NotifyStates/ANS_Attack.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Stun.uasset",
-				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Defeated.uasset"
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/AnimSequences/Defeated.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Hit.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Hit_Cue.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw_Cue.uasset"
 			]
 		}
 	]
