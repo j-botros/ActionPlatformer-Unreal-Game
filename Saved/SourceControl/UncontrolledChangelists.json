@@ -142,7 +142,15 @@
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Hit.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw.uasset",
 				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Hit_Cue.uasset",
-				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw_Cue.uasset"
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Sounds/S_Throw_Cue.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AS_Shark.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Idle.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Run.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Stun.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Defeated.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Attack.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/ABP_Shark.uasset",
+				"/Users/jobo/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Shark/AnimSequences/Stunned.uasset"
 			]
 		}
 	]
